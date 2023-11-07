@@ -12,6 +12,7 @@
  4. LearnAlgoTrading
  5. AIQuantTrading
  6. ~ing.
+
  
  🌱 Below are books that I'm interested in and have found helpful.
 
@@ -81,3 +82,6 @@
  - 나심 탈레브 5부작 [블랙스완, 행운에 속지마라, 안티프래질 etc]
  - Beat the dealer, Beat the market (Edward Thorp) (나는 어떻게 시장을 이겼나 & 딜러를 이겨라 (에드워드 소프))
 -  6개월치 업무를 하루만에 끝내는 업무 자동화, 엑셀 자동화 with 파이썬, 엑셀과 비교하며 배우는 파이썬 데이터 분석, 엑셀 파이썬 코드 레시피125, 엑셀이 편해지는 파이썬 etc.
+
+
+[진인사 대천명] 뜻대로 안되는 것도 많고 아픔이 되는 것도 많지만, 그래도 내 인생이니 즐기며 삽시다.
