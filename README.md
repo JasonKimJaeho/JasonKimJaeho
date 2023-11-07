@@ -1,16 +1,27 @@
 ### Hi there 👋
 
- 🤔 My area of interest is Investment, Factor investing, Asset allocation, Portfolio optimization, and Algorithm trading. I am studying quantitative investment methods using tools like Python and documenting the process on my GitHub. 
+ 🤔 My area of interest is Investment(Quantitative Investing), Factor investing and Porfolio, and recently I've also become interested in Algorith trading and Machine Learning.
+ 
+ 🤔 I am studying quantitative investment methods and documenting the process on my GitHub. 
+
+ Here is my github content.
+
+ 1. ETF Reserach
+ 2. PythonPortfolio
+ 3. Machinelearning for Finance
+ 4. LearnAlgoTrading
+ 5. AIQuantTrading
+ 6. ~ing.
  
  🌱 Below are books that I'm interested in and have found helpful.
 
  Knowledge for Quant & Financial Engineering
-- 파이썬을 이용한 금융분석
-- 금융 파이썬 완전 정복 2/e
-- 금융 대체 데이터
-- 금융 머신러닝
+- Python for Finance(Yves Hilpisch) (파이썬을 이용한 금융분석(이브힐피시): https://www.youtube.com/channel/UCSwSD4MeOxb-29ezJi39Xgw)
+- Mastering Python for Finance(James ma weiming) (금융 파이썬 완전 정복 2/e(제임스 마 와이밍))
+- The Book of Alternative Data(Alexander Denev, Saeed Amem) (금융 대체 데이터(알렉산더 데네브))
+- Machine Learning in Finance: From Theory to Practice(Matthew F. Dixon , Igor Halperin, Paul Bilokon) (금융 머신러닝[이론에서 실전까지])
 - 존 헐의 비즈니스 금융 머신러닝 2/e
-- 스마트 베타
+- 스마트 베타 (김병규, 이현열)
 - 초과수익을 찾아서 2/e
 - 최병선의 금융공학 5판
 - 계산재무론 (최병선)
