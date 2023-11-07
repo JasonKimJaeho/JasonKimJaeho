@@ -60,7 +60,24 @@
 - 데이터 분석을 위한 SQL 레시피
 - SQL 난이도 쉬운 순서대로: 누구나 쉽게 SQL >  혼자 공부하는 SQL > 모두의 SQL > Do it SQL 입문
 
-
- Somethingelse
-- Narrative and Numbers, 증권분석, 현명한 투자자, 소로스, 금융의 연금술, 좋은주식 나쁜기업 이상한대주주, 기업공시, 금융위기 템플릿, 투자은행과 사모펀드, 문앞의 야만인들, 투자에 대한 생각, 마켓 사이클의 법칙, 뉴욕주민의 진짜 미국식 주식투자, 정량분석 Qaunt, 채권투자노트, 실전채권투자, 효율적으로 비효율적인 시장, 김지욱의 IB 명장면, 퀀트의 세계, 퀀트의 세계, 나심 탈레브 5부작 [블랙스완, 행운에 속지마라, 안티프래질 etc], 나는 어떻게 시장을 이겼나 & 딜러를 이겨라
-- 6개월치 업무를 하루만에 끝내는 업무 자동화, 엑셀 자동화 with 파이썬, 엑셀과 비교하며 배우는 파이썬 데이터 분석, 엑셀 파이썬 코드 레시피125, 엑셀이 편해지는 파이썬 etc.
+ Economcis & something else
+ - 환율의 이해와 예측(이승호)
+ - Narrative and Numbers(damodaran) (내러티브 앤 넘버스(다모다란))
+ - 증권분석 & 현명한 투자자(그레이엄)
+ - Sorros & The Alchemy of Finance (소로스 자서전, 금융의 연금술 (소로스))
+ - 좋은주식 나쁜기업 이상한대주주(강성부)
+ - 기업공시 완전정복(김수헌)
+ - Big Debt Crisis(Ray dalio) (금융위기 템플릿(레이달리오))
+ - 투자은행과 사모펀드
+ - Barbarians at the Gate (문 앞의 야만인들(브라이언 버로, 존 헬리어))
+ - The most important things, Mastering the market cycle (Howard marks) (투자에 대한 생각, 마켓 사이클의 법칙(하워드 막스))
+ - 뉴욕주민의 진짜 미국식 주식투자
+ - Ben Graham was a quant (Greiner, Steven P.) (정량분석 Qaunt)
+ - 채권투자노트, 실전채권투자 (김형호)
+ - Efficiently Inefficient (Lasse Heje Pedersen) (효율적으로 비효율적인 시장 (페더르센))
+ - Investing Amid Low Expected Returns (Antti Ilmanen) (과거의 검증 미래의 투자 (일마넨))
+ - 김지욱의 IB 명장면 (김지욱)
+ - 퀀트의 세계 (홍창수)
+ - 나심 탈레브 5부작 [블랙스완, 행운에 속지마라, 안티프래질 etc]
+ - Beat the dealer, Beat the market (Edward Thorp) (나는 어떻게 시장을 이겼나 & 딜러를 이겨라 (에드워드 소프))
+-  6개월치 업무를 하루만에 끝내는 업무 자동화, 엑셀 자동화 with 파이썬, 엑셀과 비교하며 배우는 파이썬 데이터 분석, 엑셀 파이썬 코드 레시피125, 엑셀이 편해지는 파이썬 etc.
