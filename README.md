@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🤔 My area of interest is Investment(Quantitative Investing), Factor investing and Porfolio, and recently I've also become interested in Algorith trading and Machine Learning.
+ 🤔 My area of interest is Investment(Quantitative Investing), Factor investing and Porfolio, and recently I've also become interested Machine Learning.
  
  🤔 I am studying quantitative investment methods and documenting the process on my GitHub. 
 
@@ -16,38 +16,38 @@
  
  🌱 Below are books that I'm interested in and have found helpful.
 
- Knowledge for Quant & Financial Engineering
+ Knowledge for Finance
 - Python for Finance(Yves Hilpisch) (파이썬을 이용한 금융분석(이브힐피시): https://www.youtube.com/channel/UCSwSD4MeOxb-29ezJi39Xgw)
 - Mastering Python for Finance(James ma weiming) (금융 파이썬 완전 정복 2/e(제임스 마 와이밍))
 - The Book of Alternative Data(Alexander Denev, Saeed Amem) (금융 대체 데이터(알렉산더 데네브))
 - Machine Learning in Finance: From Theory to Practice(Matthew F. Dixon , Igor Halperin, Paul Bilokon) (금융 머신러닝[이론에서 실전까지])
-- 존 헐의 비즈니스 금융 머신러닝 2/e
 - 스마트 베타 (김병규, 이현열)
-- 초과수익을 찾아서 2/e
-- 최병선의 금융공학 5판
-- 계산재무론 (최병선)
-- 금융파생상품의 수리적 배경(최병선)
-- 엑셀 VBA로 쉽게 배우는 금융공학 프로그래밍
-- 파생상품의 평가와 헷징전략 (존 C.헐)
-- 선물 옵션투자의 이론과 전략 (존 C.헐)
-- ELS평가를 위한 몬테카를로 시뮬레이션과 유한차분법 파이썬 활용
-- 선물옵션과 장외파생상품
-- 파생상품 C++, C++언어를 이용한 파생상품의 이해
+- Finding Alphas(Tulchinsky, Igor) (초과수익을 찾아서 2/e(이고르 톨친스키))
+- Machine Learning in Business (John C. Hull) (존 헐의 비즈니스 금융 머신러닝 2/e(존 C.헐)): https://www-2.rotman.utoronto.ca/~hull/MLThirdEditionFiles/index3rdEd.html
+- Fundamentals of futures and options markets (John C. Hull) (파생상품의 평가와 헷징전략 (존 C.헐))
+- Options, futures, and other derivatives (John C. Hull) (선물 옵션투자의 이론과 전략 (존 C.헐))
+- 최병선의 금융공학 5판, 계산재무론 (최병선), 금융파생상품의 수리적 배경(최병선)
+- 엑셀 VBA로 쉽게 배우는 금융공학 프로그래밍 (이기홍)
+- ELS평가를 위한 몬테카를로 시뮬레이션과 유한차분법 파이썬 활용 (한현수)
+- 선물옵션과 장외파생상품 (강태훈)
+- 파생상품 C++ (이종희, 김성기),  C++언어를 이용한 파생상품의 이해 (이상호)
 
+Mathematics
+- 미적12, 선형대수, 수리통계1, 고등미적1,,, 실해석, 확률론
 
  Portfolio
-- 파이썬으로 배우는 포트폴리오
-- 파이썬을 이용한 퀀트투자 포트폴리오 만들기
-- 파이썬 머신러닝을 활용한 금융 리스크 관리
-- 프라도 박사의 금융 머신러닝 세트 [실전 금융 머신러닝 완벽분석 & 자산운용을 위한 금융 머신러닝]
+- 파이썬으로 배우는 포트폴리오 (곽승주)
+- 파이썬을 이용한 퀀트투자 포트폴리오 만들기 (이현열)
+- Machine Learning for Financial Risk Management with Python: Algorithms for Modeling Risk (Abdullah Karasan) (파이썬 머신러닝을 활용한 금융 리스크 관리(압둘라 카다신))
+- Advances in Financial Machine Learning & Machine Learning for Asset Managers (Marcos M. López de Prado) (실전 금융 머신러닝 완벽분석 & 자산운용을 위한 금융 머신러닝(프라도))
 
 
  Trading
-- 퀀트 전략을 위한 인공지능 트레이딩
-- 파이썬을 이용한 알고리즘 트레이딩
-- 실전 알고리즘 트레이딩 배우기
-- 실전 알고리즘 트레이딩 레벨업
-- 평균 회귀 트레이딩 전략의 최적 설계
+- 퀀트 전략을 위한 인공지능 트레이딩 (신준호, 김태헌)
+- Python for Algorithmic Trading(Yves Hilpisch) (파이썬을 이용한 알고리즘 트레이딩 (이브힐피시))
+- Learn Algorithmic Trading (Ghosh, Sourav) (실전 알고리즘 트레이딩 배우기(세바스티앙 도나디오 , 수라브 고쉬))
+- Trading Evolved: Anyone can Build Killer Trading Strategies in Python (Andreas Clenow) 실전 알고리즘 트레이딩 레벨업 (안드레아스)
+- Optimal Mean Reversion Trading (Tim Siu-tang) 평균 회귀 트레이딩 전략의 최적 설계 (팀시우)
 - 퀀트 투자를 위한 머신러닝.딥러닝.알고리듬 트레이딩 2/e
 
 
@@ -61,7 +61,7 @@
 - 데이터 분석을 위한 SQL 레시피
 - SQL 난이도 쉬운 순서대로: 누구나 쉽게 SQL >  혼자 공부하는 SQL > 모두의 SQL > Do it SQL 입문
 
- Economcis & something else
+ Something else
  - 환율의 이해와 예측(이승호)
  - Narrative and Numbers(damodaran) (내러티브 앤 넘버스(다모다란))
  - 증권분석 & 현명한 투자자(그레이엄)
