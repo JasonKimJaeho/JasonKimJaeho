@@ -31,6 +31,14 @@
 - ELS평가를 위한 몬테카를로 시뮬레이션과 유한차분법 파이썬 활용 (한현수)
 - 선물옵션과 장외파생상품 (강태훈)
 - 파생상품 C++ (이종희, 김성기),  C++언어를 이용한 파생상품의 이해 (이상호)
+- Quantitative Portfolio Management (Edward Qian, Ronald Hua, Eric Sorensen)
+- Expected Returns (Antti Ilmanen)
+- Quantitative Value (Wesley Gray and Tobias Carlisle)
+- Quantitative Equity Portfolio Management: An Active Approach to Portfolio Construction and Management (김대환 교수 공저자)
+- Quantitative Momentum (Wesley Gray and Jack Vogel)
+- What Works on Wall Street (James P. O’Shaughnessy)
+- Asset Management: A Systematic Approach to Factor Investing (Andrew Ang)
+- The Fundamental Index: A Better Way to Invest (Robert D. Arnott, Jason Hsu, John West) : https://henryquant.blogspot.com/2019/03/blog-post.html
 
 Mathematics (coursera 학생강의)
 - 미적12, 선형대수, 수리통계1, 고등미적1,,, 실해석, 확률론
@@ -40,6 +48,7 @@ Mathematics (coursera 학생강의)
 - 파이썬을 이용한 퀀트투자 포트폴리오 만들기 (이현열)
 - Machine Learning for Financial Risk Management with Python: Algorithms for Modeling Risk (Abdullah Karasan) (파이썬 머신러닝을 활용한 금융 리스크 관리(압둘라 카다신))
 - Advances in Financial Machine Learning & Machine Learning for Asset Managers (Marcos M. López de Prado) (실전 금융 머신러닝 완벽분석 & 자산운용을 위한 금융 머신러닝(프라도))
+- Complete Guide to Factor Investing (Andrew Berkin and Larry Swedroe)
 
 
  Trading
@@ -49,6 +58,7 @@ Mathematics (coursera 학생강의)
 - Trading Evolved: Anyone can Build Killer Trading Strategies in Python (Andreas Clenow) 실전 알고리즘 트레이딩 레벨업 (안드레아스)
 - Optimal Mean Reversion Trading (Tim Siu-tang) 평균 회귀 트레이딩 전략의 최적 설계 (팀시우)
 - 퀀트 투자를 위한 머신러닝.딥러닝.알고리듬 트레이딩 2/e
+- Dual Momentum Investing (Gary Antonacci) (듀얼 모멘텀 투자 전략: 뜨는 종목을 잡아내는 과학적 주식 투자 기법)
 
 
  Computing
@@ -78,7 +88,7 @@ Mathematics (coursera 학생강의)
  - Efficiently Inefficient (Lasse Heje Pedersen) (효율적으로 비효율적인 시장 (페더르센))
  - Investing Amid Low Expected Returns (Antti Ilmanen) (과거의 검증 미래의 투자 (일마넨))
  - 김지욱의 IB 명장면 (김지욱)
- - 퀀트의 세계 (홍창수)
+ - 퀀트의 세계 (홍창수) , 더 퍼슨스_퀀트, 금융인이 말하는 금융인, 나는 해외에서 먹고산다, 세계에서 가장 좋은 직업 애널리스트(용대인) 등
  - 나심 탈레브 5부작 [블랙스완, 행운에 속지마라, 안티프래질 etc]
  - Beat the dealer, Beat the market (Edward Thorp) (나는 어떻게 시장을 이겼나 & 딜러를 이겨라 (에드워드 소프))
 -  6개월치 업무를 하루만에 끝내는 업무 자동화, 엑셀 자동화 with 파이썬, 엑셀과 비교하며 배우는 파이썬 데이터 분석, 엑셀 파이썬 코드 레시피125, 엑셀이 편해지는 파이썬 etc.
