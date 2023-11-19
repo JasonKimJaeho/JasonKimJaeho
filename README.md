@@ -11,7 +11,8 @@
  3. Machinelearning for Finance
  4. LearnAlgoTrading
  5. AIQuantTrading
- 6. ~ing.
+ 6. HYFE_AlgoTrading
+ 7. ~ing.
 
  
  🌱 Below are books that I'm interested in and have found helpful.
