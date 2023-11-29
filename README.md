@@ -35,7 +35,7 @@
 - Quantitative Portfolio Management (Edward Qian, Ronald Hua, Eric Sorensen)
 - Expected Returns (Antti Ilmanen)
 - Quantitative Value (Wesley Gray and Tobias Carlisle)
-- Quantitative Equity Portfolio Management: An Active Approach to Portfolio Construction and Management (김대환 교수 공저자)
+- Quantitative Equity Portfolio Management: An Active Approach to Portfolio Construction and Management (김대환 교수 공저자) --> 도서관 4층
 - Quantitative Momentum (Wesley Gray and Jack Vogel)
 - What Works on Wall Street (James P. O’Shaughnessy)
 - Asset Management: A Systematic Approach to Factor Investing (Andrew Ang)
