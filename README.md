@@ -76,6 +76,8 @@ Mathematics (coursera 학생강의)
 - SQL 난이도 쉬운 순서대로: 누구나 쉽게 SQL >  혼자 공부하는 SQL > 모두의 SQL > Do it SQL 입문
 
  Something else
+ - Frequently Asked Questions In Quantitative Finance (Paul Wilmott)
+ - Quant Job Interview Questions & Answers (Mark Joshi, Nick Denson, Andrew Downes)
  - 환율의 이해와 예측(이승호)
  - Narrative and Numbers(damodaran) (내러티브 앤 넘버스(다모다란))
  - 증권분석 & 현명한 투자자(그레이엄)
