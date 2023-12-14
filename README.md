@@ -1,8 +1,8 @@
 ### Hi there 👋
 
- 🤔 My interests are Investment(Quantitative Investing), Factor investing and Porfolio managing, and recently I've also become interested Machine Learning.
+ 🤔 My interests are Investment(Quantitative Investing), Factor investing and Porfolio managing.
  
- 🤔 I am studying quantitative investment methods and documenting the process on my GitHub. 
+ 🤔 I am studying quantitative investment methods and plan to document it on my GitHub. 
 
  Here is my github content.
 
