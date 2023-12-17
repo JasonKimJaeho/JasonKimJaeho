@@ -42,6 +42,7 @@
 - What Works on Wall Street (James P. O’Shaughnessy)
 - Asset Management: A Systematic Approach to Factor Investing (Andrew Ang)
 - The Fundamental Index: A Better Way to Invest (Robert D. Arnott, Jason Hsu, John West) : https://henryquant.blogspot.com/2019/03/blog-post.html
+- 개발자를 위한 실전 선형대수
 
 Mathematics (coursera 학생강의)
 - 미적12, 선형대수, 수리통계1, 고등미적1
